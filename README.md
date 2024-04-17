@@ -34,14 +34,14 @@
                         <input type="radio" name="radio-btn" id="radio3">
     
                         <div class="slide first">
-                            <img src="https://s2-techtudo.glbimg.com/SSAPhiaAy_zLTOu3Tr3ZKu2H5vg=/0x0:1024x609/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/c/u/15eppqSmeTdHkoAKM0Uw/dall-e-2.jpg"
+                            <img src="https://i.stack.imgur.com/8Ynld.jpg"
                                 alt="">
                         </div>
                         <div class="slide">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5O-tT8lmlH_c8T2pxK0s2bDIG8zSNNEMu_6CR4W1hQ&s" alt="">
+                            <img src="https://i.pinimg.com/originals/7a/67/03/7a670363bbf825d15481ecb18e684400.jpg" alt="">
                         </div>
                         <div class="slide">
-                            <img src="https://s2-techtudo.glbimg.com/JsE244mucjKWLYtNgeiDyfVYlJQ=/0x129:1024x952/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/7/i/ME2AxRRoygUyFPCDe0jQ/3.png" alt="">
+                            <img src="https://i.pinimg.com/originals/d5/c0/6e/d5c06ee6e4bf452db2255cc36f600384.jpg" alt="">
                         </div>
                     </div>
     
