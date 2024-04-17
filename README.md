@@ -34,14 +34,14 @@
                         <input type="radio" name="radio-btn" id="radio3">
     
                         <div class="slide first">
-                            <img src="https://i.stack.imgur.com/8Ynld.jpg"
+                            <img src="https://s2-techtudo.glbimg.com/SSAPhiaAy_zLTOu3Tr3ZKu2H5vg=/0x0:1024x609/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/c/u/15eppqSmeTdHkoAKM0Uw/dall-e-2.jpg"
                                 alt="">
                         </div>
                         <div class="slide">
-                            <img src="https://i.pinimg.com/originals/7a/67/03/7a670363bbf825d15481ecb18e684400.jpg" alt="">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIAVAjY7ClGYT14eGGBs3Cwde4e-UlN0acFkwxmY5a9gvjdP1f-pT5331lvmWWkRSKaQ&usqp=CAU" alt="">
                         </div>
                         <div class="slide">
-                            <img src="https://i.pinimg.com/originals/d5/c0/6e/d5c06ee6e4bf452db2255cc36f600384.jpg" alt="">
+                            <img src="https://s2-valor.glbimg.com/liAB8foTKQQ29eBML_Aoehi_rL4=/0x144:1024x1024/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/a/N/DEIdeDR6KhCixtkhVPIQ/anastronautridingahorseinaphotorealisticstyle6.jpg" alt="">
                         </div>
                     </div>
     
